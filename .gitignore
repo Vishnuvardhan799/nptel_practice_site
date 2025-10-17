@@ -1,23 +1,115 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Dependencies
+node_modules/
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
+# Production build folder (created after running `npm run build`)
+build/
 
-# testing
-/coverage
+# Environment variables
+.env*
+!.env.example
 
-# production
-/build
-
-# misc
+# OS generated files
 .DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
 
+# Logs
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# Temporary folders
+tmp/
+temp/
+
+# Output of `npm pack`
+*.tgz
+
+# Yarn
+yarn-debug.log*
+yarn-error.log*
+
+# npm cache
+npm-debug.log*
+.npm
+
+# Editor and IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Dist files
+dist/
+
+# Local configuration files
+config.local.js
+*.local.*
+
+# Browser-sync
+.browser-sync*
+
+# React-specific
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Production builds for various deployment platforms
+.vercel/
+.now/
+netlify/
+
+# Lock files for dependency managers other than npm
+Gemfile.lock
+composer.lock
+
+# React/Node.js project specific additions based on project structure
+# Cache folder for React scripts
+node/.cache/
+
+# Production build (alternative name)
+dist/
+
+# Coverage reports
+coverage/
+
+# IDE specific
+.vscode/tasks.json
+.vscode/launch.json
+
+# React/development specific
+.nyc_output/
+coverage/
+
+# Deployment specific
+.netlify/
+
+# Backup and test files from development
+*.backup
+*.bak
+*.bkp
+*.tmp
+*.temp
+test_*.js
+*_test.js
+*_test.jsx
+*.test.js
+*.test.jsx
+**/test/**/*
+**/tests/**/*
+math_rendering_verification.js
+katex_test.html
+MATH_RENDERING_IMPLEMENTATION.md

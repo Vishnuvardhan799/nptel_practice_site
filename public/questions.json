@@ -1,0 +1,991 @@
+{
+  "course": "Mathematics for Economics - I",
+  "years": {
+    "2025": {
+      "1": [
+        {
+          "question": "$|x+1| < 5$ means",
+          "options": [
+            "$-6 < x < 4$",
+            "$x > 4$",
+            "$x = 4$",
+            "$5 < x < -6$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "If $x$ is an irrational number, which of the following must be true?",
+          "options": [
+            "$x$ is a real number",
+            "$x$ must be positive",
+            "$x$ is the square root of a prime number",
+            "None of these."
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "$(x-1)(x-2)(x-3)=0 \\rightarrow x=1$. The above implication is true",
+          "options": [
+            "The above implication is true",
+            "The converse of the implication is true",
+            "Both the implication and its converse are true",
+            "None of these."
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "Consider the proposition $2x+5 \\geq 17$. The condition $x \\geq 0$ is",
+          "options": [
+            "Sufficient for the proposition to be satisfied",
+            "Necessary for the proposition to be satisfied",
+            "Both necessary and sufficient for the proposition to be satisfied.",
+            "Neither necessary nor sufficient for the proposition to be satisfied."
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "Which of the following statements is correct?",
+          "options": [
+            "$x$ is a rectangle $\\rightarrow$ $x$ is a square",
+            "$x^2 > 0 \\rightarrow x > 0$.",
+            "$xy = 0 \\rightarrow x = 0$ or $y = 0$",
+            "None of these"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "What is the negation of the statement \"No one can help liking cats\"?",
+          "options": [
+            "Some people may not like cats",
+            "Everyone likes cats",
+            "Some people like cats",
+            "None of these"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "Consider the statements: (1) \"Being a square is sufficient for being a rectangle.\" (2) \"Being a rectangle is necessary for being a square.\" Which of these is true?",
+          "options": [
+            "Only statement (1) is true.",
+            "Only statement (2) is true.",
+            "Both (1) and (2) are true.",
+            "Neither (1) nor (2) is true"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "For what real number $x$ is the following expression undefined? $\\frac{(x+1)(x+4)}{x(x+1)(x-4)}$",
+          "options": [
+            "$x = -1$ and $x = 4$",
+            "$x = 0$, $x = -1$ and $x = 4$",
+            "$x = -1$",
+            "$x = 4$ and $x = 0$"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ],
+      "2": [
+        {
+          "question": "Let $G =$ set of all graduate students in a college, and $H =$ set of all students living in hostels. Anup belongs to the set $G \\setminus H$ ($G$ minus $H$). It implies,",
+          "options": [
+            "Anup is a college graduate student who lives in a hostel.",
+            "Anup lives in a hostel but not a college student.",
+            "Anup is a graduate student of the college who does not live in a hostel.",
+            "Anup is a non-graduate student of the college who lives in a hostel."
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "Let $A =$ set of all Economics major students, $B =$ set of all students taking a Mathematics course, $C =$ set of students who play cricket. The set $(A \\cap B) \\setminus C$ denotes:",
+          "options": [
+            "Economics major students who have taken Mathematics course and play cricket.",
+            "Students who have either Economics major or have taken a Mathematics course and play cricket.",
+            "Economics major students who took a Mathematics course but do not play cricket.",
+            "Students who are not Economics major but took a course in Mathematics and play cricket."
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "In a village, there are 300 people. 248 are cricketers, 152 are footballers, 110 people play both cricket and football, and 42 play no sports. How many villagers play only cricket?",
+          "options": [
+            "138",
+            "206",
+            "96",
+            "248"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "Total number of people who either play cricket or football but not both",
+          "options": [
+            "248",
+            "150",
+            "180",
+            "258"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "Suppose, $A = \\{2,3,4,5\\}$, $B = \\{3,6,9\\}$, $C = \\{5,6,7,8\\}$ then $(A \\cup B) \\cap (B \\cup C) =$",
+          "options": [
+            "$\\{3,5,6,9\\}$",
+            "$\\{3,5\\}$",
+            "$\\{1,2\\}$",
+            "$\\varnothing$, the null set"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "Shreya has ₹800 income and plans to buy goods $x$ and $y$ priced at ₹20 and ₹10 per unit, respectively. What is Shreya's budget constraint?",
+          "options": [
+            "$2x + y \\leq 80$",
+            "$2x + y \\leq 800$",
+            "$10x + 20y < 800$",
+            "$20x + 10y \\geq 800$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "The budget set of Shreya, assuming $x, y \\geq 0$",
+          "options": [
+            "$\\{(x, y): 2x + y \\leq 80,\\ x \\geq 0,\\ y \\geq 0\\}$",
+            "$\\{(x, y): 20x + 10y \\leq 800,\\ x, y \\leq 0\\}$",
+            "$\\{(x, y): x + y \\leq 800\\}$",
+            "$\\{(x, y): x + 2y \\geq 800,\\ x, y \\geq 0\\}$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "Take the set $\\{a, b, c, d\\}$. Suppose you are writing down all possible subsets of this set. How many subsets are there in all?",
+          "options": [
+            "8",
+            "10",
+            "12",
+            "16"
+          ],
+          "correctAnswerIndex": 3
+        }
+      ],
+      "3": [
+        {
+          "question": "For the function $g(x) = \\sqrt{x - 1}$, what is the domain?",
+          "options": [
+            "$x \\geq 1$",
+            "$x > 1$",
+            "$x \\leq 0$",
+            "$x \\leq 1$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "The population of Mathland is rising at 3.5% per year (compounded annually). Approximately how many years will it take for it to double?",
+          "options": [
+            "12",
+            "18",
+            "20",
+            "25"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "A savings account with an initial deposit of 5000 rupees earns 8% interest per year (compounded annually). What is the approximate amount of savings after 6 years?",
+          "options": [
+            "6852 rupees.",
+            "7934 rupees.",
+            "8405 rupees.",
+            "None of these"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "In a market, demand is $Q_d = 20 - 2P$ and supply is $Q_s = 3P$. The equilibrium price and quantity are:",
+          "options": [
+            "$P = 4,\\ Q = 18$",
+            "$P = 5,\\ Q = 18$",
+            "$P = 4,\\ Q = 9$",
+            "$P = 4,\\ Q = 12$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "Suppose you draw the functions in the $Q$-$P$ plane, and suppose the demand function shifts upwards by 2 units, then the new equilibrium price",
+          "options": [
+            "Rises by 35",
+            "Rises by 45",
+            "Rises by 25",
+            "Rises by 15"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "A monopolist faces the inverse demand function $P = 20 - 0.5Q$, and the cost function is $C(Q) = 2Q$. At what output level is the profit of the firm maximised?",
+          "options": [
+            "10",
+            "12",
+            "14",
+            "18"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "Suppose $f(x)$ is a linear, rising function of $x$. Consider the function $g(x) = f(x - k)$, where $k$ is a constant. Which of the following is true?",
+          "options": [
+            "$g(x)$ is non-linear.",
+            "$g(x)$ is horizontally to the right of $f(x)$ by $k$",
+            "$g(x)$ is vertically above $f(x)$ by $k$.",
+            "$g(x)$ is horizontally to the left of $f(x)$ by $k$."
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "The reserve of natural gas in a field is given by: $Q = -40t + 2000$, where $t=0$ corresponds to January 2021, $t$ is in years, and $Q$ is the reserve in million cubic meters. How many million cubic meters of gas will be left in July 2024?",
+          "options": [
+            "1760",
+            "1800",
+            "1860",
+            "1960"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ],
+      "4": [
+        {
+          "question": "If $C(q) = 20q^2 + 100$, the marginal cost at the output level of 4 units $MC(4)$ is:",
+          "options": [
+            "40",
+            "160",
+            "120",
+            "$40q$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "Suppose the marginal cost of a firm is higher than the average cost at a particular level of output. Then the following is true:",
+          "options": [
+            "Marginal cost is rising.",
+            "Average cost is rising.",
+            "Total cost is rising.",
+            "Marginal cost is higher than average cost."
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "The demand function of a mango firm is given by $D(p) = 200 - 4p^2$, the price elasticity of demand at $P = 5$ is:",
+          "options": [
+            "$-2.5$",
+            "$-2$",
+            "4",
+            "$-25$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "At the current price 34, the market demand for a producer is 1000 and the price elasticity of demand is $-2.7$. A producer wants to increase his total revenue. He should,",
+          "options": [
+            "Increase the price",
+            "Reduce the price",
+            "Keep it intact",
+            "None of these."
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "A country's GDP in nominal terms is growing at 9%, and the growth of the overall price level is at 3%. The real GDP growth rate is:",
+          "options": [
+            "6%",
+            "12%",
+            "3%",
+            "It cannot be calculated from the given data"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "For the production function $Q(L, K) = 8L^{0.5}K^{0.5}$, find the isoquant that represents an output level of 104.",
+          "options": [
+            "$L + K = 139$",
+            "$LK = 169$",
+            "$L^{0.5} + K^{0.5} = 169$",
+            "$L + K = 104$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "The stock of capital changes over time and its behaviour is given by $K(t) = 112t^2 - t^3 + 12$. Investment at time $t$ is",
+          "options": [
+            "$16t - 3t^2 + t$",
+            "$16t - 3t^2$",
+            "$24t^2 - 3t$",
+            "$24t - 3t^2 + 12$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "A paddy farmer has the production function: $Q(L, K) = \\sqrt{LK} + 35L + 38K$. He uses $L = 25$ units of labour and $K = 16$ units of capital. What is the marginal product of labour and capital?",
+          "options": [
+            "1, 1",
+            "35, 38",
+            "1, 38",
+            "35, 1"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ],
+      "5": [
+        {
+          "question": "Suppose that $C = 20z - 4z^2\\sqrt{5 - 12x}$, where $z$ is a constant and $x < 50$. Find $\\frac{dC}{dx}$.",
+          "options": [
+            "$z \\cdot 12\\sqrt{5 - x^2}$",
+            "$-2z \\cdot 12\\sqrt{5 - 12x}$",
+            "$-z \\cdot \\sqrt{25 - x^2}$",
+            "$20 - \\sqrt{150 - x}$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "Consider the Cobb-Douglas production function $Q = f(K, L)$. Suppose the inputs $K$ and $L$ are functions of time, i.e., $K = K(t)$ and $L = L(t)$. At a given moment of time, the marginal product of labour is 2.5 and the marginal product of capital is 3, capital increases at a rate of 2 units per unit of time, and the rate of change of labour is 0.5. What is the rate of change of output $\\frac{dQ}{dt}$?",
+          "options": [
+            "5.5",
+            "0",
+            "7.25",
+            "6"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "Compute the third order partial derivative with respect to $K$, i.e., $\\frac{\\partial^3 Q}{\\partial K^3}$, from the production function $Q = 4K^{3/4}L^{1/4}$.",
+          "options": [
+            "$-\\frac{3L^{1/4}}{4K^{5/4}}$",
+            "$\\frac{3L^{1/4}}{K^{1/4}}$",
+            "$-\\frac{15L^{1/4}}{16K^{9/4}}$",
+            "$\\frac{15L^{1/4}}{16K^{9/4}}$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "For $F(x, y, z) = x^2y^3 + z^2 + xyz = c$, where $c$ is a constant, use the implicit function rule to find $\\frac{dy}{dx}$.",
+          "options": [
+            "$\\frac{2xy^3 + yz}{3x^2y^2 + xz}$",
+            "$\\frac{-2x - yz}{3y^2 + xz}$",
+            "$\\frac{-2xy^3 - yz}{3x^2y^2 + xz}$",
+            "$\\frac{-2xy^3 - yz - 2z}{3x^2y^2 + xz}$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "Consider the demand function $Q_1 = 6p_1^{-2} p_2^{3/2}$, where $Q_1$ is the demand for good 1, and $p_i$ is the price of good $i$ for $i=1,2$. Estimate the change in demand as $p_1$ and $p_2$ change by small amounts $dp_1$ and $dp_2$.",
+          "options": [
+            "$p_2^{3/2} dp_1 + 6p_1^{-2} dp_2$",
+            "$\\frac{12p_2^{3/2}}{p_1^3} dp_1 + \\frac{9\\sqrt{p_2}}{p_1^2} dp_2$",
+            "$\\frac{p_2}{p_1^3} dp_1 + 9p_1\\sqrt{p_2} dp_2$",
+            "$-\\frac{12p_2^{3/2}}{p_1^3} dp_1 + \\frac{9\\sqrt{p_2}}{p_1^2} dp_2$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "Find the linear approximation to $F(K) = AK^\\alpha$ about $K = 1$",
+          "options": [
+            "$A + \\alpha(K - 1)$",
+            "$A[1 + \\alpha(K - 1)]$",
+            "$A\\alpha[1 + \\alpha(K - 1)]$",
+            "$A[1 + \\alpha K^\\alpha (K - 1)]$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "In a closed economy, the national income is given by the sum of the expenditures on investment and consumption. Suppose the consumption function is given as $C = f(Y) = 95.05 + 0.8Y$. Estimate the change in national income if the investment expenditure increases by 1 unit.",
+          "options": [
+            "5",
+            "0.8",
+            "4",
+            "1"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "From the demand function $Q_1 = K_1 P_1^{a_{11}} P_2^{a_{12}} I^{b_1}$, compute the cross price elasticity of demand with respect to $P_2$.",
+          "options": [
+            "$a_{11}$",
+            "$a_{12}$",
+            "$b_1$",
+            "$a_{12} \\cdot K_1 P_1^{a_{11}} P_2^{a_{12}-1} I^{b_1}$"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ],
+      "6": [
+        {
+          "question": "Evaluate $\\lim_{x \\to 0} \\frac{a^x - b^x}{e^{ax} - e^{bx}}$, ($a \\ne b$, $a$ and $b$ are positive).",
+          "options": [
+            "0",
+            "$\\frac{\\ln a - \\ln b}{a - b}$",
+            "$\\frac{a \\ln a - b \\ln b}{a - b}$",
+            "No limit exists"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "Determine the values of $x$ for which the following function is continuous: $f(x) = \\frac{1}{\\sqrt{2 - x}}$",
+          "options": [
+            "All real numbers",
+            "$x < 2$",
+            "$x \\leq 2$",
+            "$x > 2$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "The approximate present value of a series of deposits of Rs. 1000 made at the end of each year in perpetuity, with the annual interest rate 14% is",
+          "options": [
+            "Rs. 14000",
+            "Rs. 5216",
+            "Rs. 8770",
+            "Rs. 7143"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "An investment in a certain machine is expected to earn a profit of Rs. 1 lakh at the end of each year. What is the maximum price that should be paid for the machine if it has a lifetime of 10 years, and if the interest rate is 9%?",
+          "options": [
+            "Rs. 1,00,000",
+            "Rs. 5,88,810",
+            "Rs. 6,41,800",
+            "Rs. 7,00,000"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "An amount of Rs. 50,000 deposited in a bank account earns interest at 7% per year. How many years does it take for this amount to double?",
+          "options": [
+            "14",
+            "5.5",
+            "10.24",
+            "7.5"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "Find relative rate of growth of $y$, i.e., $\\frac{1}{y}\\frac{dy}{dt}$ if $y = 2^t(t^2)$",
+          "options": [
+            "$\\ln 2 + 2t$",
+            "$2^t[t^2 \\ln(2 + 2t)]$",
+            "$\\ln 2 + \\frac{2}{t}$",
+            "$2^t \\ln 2 + 2t$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "A house loan valued at 50,000 rupees today is to be repaid in equal annual instalments over 4 years, the first repayment starting 1 year from now. The interest rate is 5% per year. What are the annual instalment amounts?",
+          "options": [
+            "Approx. 13200 rupees",
+            "Approx. 14800 rupees",
+            "Approx. 13850 rupees",
+            "Approx. 14100 rupees"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "An investment project costs 1500 rupees now. It yields returns of 800 rupees and 1000 rupees after the 1st and 2nd year, respectively. The annual rate of interest is 10% per year. Should the project be undertaken according to the NPV criterion?",
+          "options": [
+            "No",
+            "Yes",
+            "Cannot say",
+            "Depends on the investor"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ],
+      "7": [
+        {
+          "question": "For a function $f$, a point $c$ in the domain $D$ is called a strict maximum point if for all $x \\in D$ and $x \\ne c$",
+          "options": [
+            "$f(x) < f(c)$",
+            "$f(x) > f(c)$",
+            "$f(x) \\leq f(c)$",
+            "$f(x) \\geq f(c)$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "Classify the stationary points of $f(x) = x^3 + 3x^2 - 2$",
+          "options": [
+            "$x = -2$ is local minimum and $x = 0$ is local maximum",
+            "No local extreme point exists",
+            "$x = 0$ is local minimum and $x = -2$ is an inflection point",
+            "$x = 0$ is local minimum and $x = -2$ is local maximum"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "Find the extreme points of $f(x) = 4x^2 - 40x + 80$ defined in the interval $x \\in [0, 8]$",
+          "options": [
+            "$x = 0$ is the minimum point and $x = 8$ is the maximum point",
+            "$x = 5$ is the minimum point and $x = 8$ is the maximum point",
+            "$x = 8$ is the minimum point and $x = 5$ is the maximum point",
+            "$x = 5$ is the minimum point and $x = 0$ is the maximum point"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "Identify the incorrect statement:",
+          "options": [
+            "Some extreme points are stationary points",
+            "Some stationary points are inflection points",
+            "All stationary points are extreme points",
+            "Some extreme points occur at end points of a closed interval"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "Suppose a farm produces output $Q$ using labour $L$ as the only input hired at wage rate $w$. Let the production function of the farm be $f(L)$. The profit function of the farm is given by $\\pi(L) = P\\cdot f(L) - w\\cdot L$, where $P$ is the output price. $L^*$ will be the optimal profit maximizing level of labour employed by the farm if:",
+          "options": [
+            "$\\pi(L^*) > 0$ for $L \\leq L^*$",
+            "$\\pi'(L^*) \\geq 0$ for $L \\leq L^*$ and $\\pi'(L^*) \\leq 0$ for $L \\geq L^*$",
+            "$\\pi'(L^*) \\leq 0$ for $L \\leq L^*$ and $\\pi'(L^*) \\geq 0$ for $L \\geq L^*$",
+            "$\\pi(L^*) \\geq wL$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "At the optimal amount of labour, $L^*$, where the profit function is maximized, which one of the following conditions must be true:",
+          "options": [
+            "Total revenue equals the total costs",
+            "Value of marginal product of labour equals the wage rate",
+            "Average product of labour equals the wage rate",
+            "Marginal product of labour equals the wage rate"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "A firm that operates in a perfectly competitive market sells its product at a market price of Rs. 100 per unit. The firm’s cost function is given by $C(q) = q^2 + 2q + 10$. Suppose the government imposes a seller’s tax of Rs. 8 per unit of good sold. Let $q^*$ be the firm’s profit maximizing level of output produced after the tax is imposed. The value of $q^*$ is:",
+          "options": [
+            "49",
+            "44",
+            "46",
+            "45"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "A man has current income $y_1$ and expects future income $y_2$. He plans current consumption $c_1$ and future consumption $c_2$ in order to maximize the utility function given by $U(c_1, c_2) = \\ln c_1 + \\frac{1}{1+\\delta} \\ln c_2$, where $c_1$ and $c_2 > 0$, and $\\delta$ is his rate of discount. He can borrow and lend in the market at $r$ rate of interest. Find the optimal level of $c^*_1$ which maximises his utility.",
+          "options": [
+            "$c^*_1 = \\frac{y_2 + (1+\\delta)y_1}{1+r}$",
+            "$c^*_1 = \\frac{(1+\\delta)(y_2 + (1+r)y_1)}{(1+r)(2+\\delta)}$",
+            "$c^*_1 = \\frac{(\\delta+1)(y_2 + y_1)}{(1+r)(4+\\delta)}$",
+            "$c^*_1 = \\frac{y_2 + (1+r)y_1}{(1+r)(4+\\delta)}$"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ],
+      "8": [
+        {
+          "question": "Find possible inflection points for $f(x) = x^6 - 10x^4$",
+          "options": [
+            "$x = 2$, $x = -2$ and $x = 0$",
+            "$x = \\sqrt{\\frac{20}{3}}$ and $x = -\\sqrt{\\frac{20}{3}}$",
+            "$x = 2$ and $x = -2$",
+            "No inflection point exists"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "Suppose you own a rare book whose value at time $t$ years from now will be $B(t) = 2\\sqrt{t}$ dollars. Assuming a constant interest rate of 5 percent compounded continuously, when is the best time to sell the book and invest the proceeds?",
+          "options": [
+            "Approx. 7.8 years",
+            "Approx. 5.3 years",
+            "Sell immediately at $t=0$",
+            "Approx. 48.05 years"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "In a perfectly competitive market, what is the sufficient condition for profit maximization?",
+          "options": [
+            "The marginal cost equals price",
+            "The marginal cost curve has a negative slope at the point of optimal output",
+            "The marginal cost equals zero",
+            "The marginal cost curve has a positive slope at the point of optimal output"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "Suppose the government initiated a project to determine the optimal height of the dykes to prevent flooding. One of the models involved finding the value of $x$ minimizing $f(x) = I_0 + Kx + A e^{-\\alpha x}$, $x \\geq 0$. Here $x$ denotes the extra height in metres that should be added to the dykes, $I_0 + Kx$ is the construction cost, and $A e^{-\\alpha x}$ is an estimate of the expected loss caused by flooding. The parameters $I_0$, $K$, $A$, and $\\alpha$ are all positive constants. Suppose that $A\\alpha > K$ and find $x_0 > 0$ that minimizes $f(x)$.",
+          "options": [
+            "$\\frac{1}{\\alpha} \\ln\\left(\\frac{K}{\\alpha A}\\right)$",
+            "$-\\frac{1}{\\alpha} \\ln\\left(\\frac{\\alpha A}{K}\\right)$",
+            "$\\frac{1}{\\alpha} \\ln\\left(\\frac{\\alpha A}{K}\\right)$",
+            "$-\\frac{1}{\\alpha} \\ln\\left(\\frac{K}{A}\\right)$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "Suppose $Y(N)$ bushels of wheat are harvested per acre of land when $N$ pounds of fertilizer per acre are used. The yield of wheat has been estimated to be $Y(N) = -13.62 + 0.984N - 0.05N^{1.5}$. If the price of wheat is \\$1.40 per bushel and the price of fertilizer is \\$0.18 per pound, find the amount of fertilizer that maximizes profits.",
+          "options": [
+            "Approx. 110",
+            "Approx. 130",
+            "Approx. 100",
+            "Approx. 140"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "Suppose that the firm in a perfectly competitive market obtains a fixed price of $P = 121$ per unit, and that the cost function is $C(Q) = 0.02Q^3 - 3Q^2 + 175Q + 500$. The firm can produce at most $Q = 110$ units. Which production level maximizes profits?",
+          "options": [
+            "10",
+            "110",
+            "0",
+            "90"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "A monopoly firm faces the demand function $P(Q) = 100 - \\frac{1}{3}Q$, $Q \\in [0, 300]$. The cost function of the firm is $C(Q) = \\frac{1600}{3}Q - \\frac{1}{3}Q^2 + 50Q + \\frac{1000}{3}$. Find the production level that maximizes profit.",
+          "options": [
+            "100",
+            "0",
+            "300",
+            "10"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "The total cost of producing $Q$ units of a commodity is $C(Q) = 2Q^2 + 10Q + 32$, $Q > 0$. Find the value of $Q$ which minimizes the average cost.",
+          "options": [
+            "2",
+            "8",
+            "4",
+            "$\\sqrt{32}$"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ],
+      "9": [
+        {
+          "question": "In the relation $\\int f(x)\\,dx = F(x) + C$, which of the following is called integrand?",
+          "options": [
+            "$F(x)$",
+            "$f(x)$",
+            "$C$",
+            "None of these"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "$\\int_1^e \\frac{1}{x}\\,dx =$",
+          "options": [
+            "$\\ln|e| + C$",
+            "1",
+            "0",
+            "$e$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "Suppose if $\\int_{-4}^2 g(x)\\,dx = 8$ and $\\int_{-4}^0 g(x)\\,dx = 6$. Find $\\int_0^2 g(x)\\,dx =$",
+          "options": [
+            "6",
+            "5",
+            "2",
+            "4"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "Suppose $\\int f(x)\\,dx = F(x) + C$, then $\\frac{d}{dt} \\int_a^t f(x)\\,dx =$",
+          "options": [
+            "$F(x)$",
+            "$F(t)$",
+            "$f(t)$",
+            "$F(a)$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "For all the functions $F(x)$ such that $F'(x) = 3(x+1)^2$, find the particular function which passes through $(1,2)$.",
+          "options": [
+            "$x^2 - \\frac{1}{x} x^3 - x + 4$",
+            "$x^3 + \\frac{3}{2}x^2 + 3x - 6$",
+            "$x^3 + 3x^2 + 3x - 5$",
+            "$x^3 + \\frac{1}{3}x^2 + 2x - 5$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "The marginal cost of a firm is $3q^2 + 2q + 5$, the fixed cost is 100, then its average cost is,",
+          "options": [
+            "$q^2 + q + 5 + \\frac{100}{q}$",
+            "$q^2 + q + 100$",
+            "$q^3 + \\frac{q^2}{2} + 10q + 5$",
+            "$3q + 1 + \\frac{2}{q}$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "If $f(x)$ be an income density function then $\\int_a^b f(x)\\,dx$",
+          "options": [
+            "Income between $a$ and $b$",
+            "Income above $b$",
+            "Proportion of total income between $a$ and $b$",
+            "Proportion of people with income between $a$ and $b$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "Let $K(t)$ represent the capital stock of an economy at time $t$. Investment (or, net investment) at time $t$, denoted by $I(t)$, is the rate of change of capital stock, $K(t)$, $I(t) = 4t^2 + 3t$. If the initial capital stock is $K(0) = 50$, then find the stock of capital at $t = 4$.",
+          "options": [
+            "$\\approx 179$",
+            "$\\approx 185$",
+            "$\\approx 205$",
+            "$\\approx 159$"
+          ],
+          "correctAnswerIndex": 3
+        }
+      ],
+      "10": [
+        {
+          "question": "A coal mine has an initial coal reserve of, $C_0$ tons. It is being extracted at a rate of $x(t)$ tons per unit of time $t$, with no natural restoration. At time $T$ the coal reserve is,",
+          "options": [
+            "$\\int_0^T x(t)\\,dt$",
+            "$C_0 - \\int_0^T x(t)\\,dt$",
+            "$C_0 + \\int_0^t x(z)\\,dz$",
+            "$C_0 + \\int_0^T x(z)\\,dz$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "Let $F(x)$ be the proportion of individuals in a country with income no more than $x$ rupees, and let $\\int f(x)\\,dx = F(x) + C$ then $f(x)$ is called the",
+          "options": [
+            "Cumulative distribution function of income.",
+            "Income density function",
+            "Uniform income density function",
+            "Logarithmic function of income"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "There are $n$ number of people and $f(x)$ is the income density function. The number of individuals earning in the income range $[100, 200]$ is given by,",
+          "options": [
+            "$n \\int_{100}^{200} f(r)\\,dr$",
+            "$\\int_{100}^{200} r f(r)\\,dr$",
+            "$n \\int_{100}^{200} r f(r)\\,dr$",
+            "$\\int_{100}^{200} f(r)\\,dr$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "Total income of people earning between $[100, 200]$ is,",
+          "options": [
+            "$n \\int_{100}^{200} f(r)\\,dr$",
+            "$\\int_{100}^{200} r f(r)\\,dr$",
+            "$n \\int_{100}^{200} r f(r)\\,dr$",
+            "$\\int_{100}^{200} f(r)\\,dr$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "The present discounted value of a constant income stream of $a$ rupees per year over the next $T$ years, with an annual interest rate of $r$ compounded continuously is,",
+          "options": [
+            "$\\frac{a}{r}$",
+            "$\\frac{a}{r} (1 + e^T)$",
+            "$\\frac{a}{r} (1 - e^{-rT})$",
+            "None of these"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "An asset pays a return of 2000 rupees/year, the rate of interest is 5% per year, compounded continuously. With continuous discounting, the PDV of returns if it’s paid for perpetuity is,",
+          "options": [
+            "15,600",
+            "21,500",
+            "40,000",
+            "12,600"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "Let $G$ denote the Gini Coefficient of an arbitrary income distribution. Which of the following is correct?",
+          "options": [
+            "$-1 \\leq G \\leq 1$",
+            "$G < 1$",
+            "$0 \\leq G \\leq 1$",
+            "$0 \\leq G \\leq \\infty$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "Which of the following is correct about the Lorenz Curve?",
+          "options": [
+            "It is a linear curve depicting the level of poverty in a particular group",
+            "It depicts the lack of nutrition for a group of people",
+            "It depicts the degree of inequality within a group",
+            "It lies above the line of perfect equality"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ],
+      "11": [
+        {
+          "question": "The difference equation $y_{t+1} = 3y_t$ is a",
+          "options": [
+            "Linear, non-homogenous difference equation of first-order.",
+            "Linear, homogenous and first-order difference equation.",
+            "Second degree, homogenous difference equation.",
+            "Third order difference equation."
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "The difference equation $y_{t+3} = 3(y_t)^2$ is a",
+          "options": [
+            "Linear difference equation",
+            "Third-order difference equation",
+            "Non-homogenous difference equation",
+            "Second-order difference equation"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "The two components of the solution of a difference equation are called,",
+          "options": [
+            "Particular integral and constant of integration",
+            "Particular integral and complementary function",
+            "General solution and definite solution",
+            "General solution and complementary function"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "A first-order difference equation is given as, $y_{t+1} + 2y_t = 6$, with $y_0 = 4$. The complementary function is,",
+          "options": [
+            "$y_t = (2)^t y_0$",
+            "$y_t = y_0$",
+            "$y_t = A(-2)^t$, where $A$ is an arbitrary constant",
+            "$y_t = \\left(-\\frac{1}{2}\\right)^t y_0 + 6$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "In the solution of a first-order difference equation suppose $A b^t$ is the complementary function. There is dynamic stability if",
+          "options": [
+            "$b < 1$",
+            "$|b| < 1$",
+            "$b = 0$",
+            "None of these"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "For a first-order, linear difference equation suppose $A b^t + k$ is the general solution. Which of the following is correct?",
+          "options": [
+            "Dynamic stability is ensured if $|k| < 1$",
+            "$b$ does not affect the convergence of the time-path.",
+            "$k$ has no bearing on dynamic stability.",
+            "High values of $A$ can make the system oscillatory."
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "In Cobweb model the equilibrium is dynamically stable if (quantity is taken along the y-axis and price on x-axis),",
+          "options": [
+            "The demand function is flatter than the supply function",
+            "The demand function has zero slope",
+            "The demand function is steeper than the supply function",
+            "The supply function has a slope of 1"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "$Q_{dt} = 1 - 4P_t$, $Q_{st} = P_{t-1}$ are the demand and supply functions. The time path of price will",
+          "options": [
+            "Diverge to $\\infty$",
+            "Converge to 4",
+            "Converge to $\\frac{1}{5}$",
+            "Oscillate indefinitely"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ],
+      "12": [
+        {
+          "question": "The time path, $y_t = \\left(\\frac{1}{6}\\right)^t \\left(A_3 \\cos\\left(\\frac{\\pi t}{2}\\right) + A_4 \\sin\\left(\\frac{\\pi t}{2}\\right)\\right) + \\frac{9}{7}$, where $A_3$ and $A_4$ are arbitrary constants, is",
+          "options": [
+            "Oscillatory and Convergent",
+            "Oscillatory and Divergent",
+            "Non-oscillatory and Convergent",
+            "Non-oscillatory and Divergent"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "The demand and supply functions: $Q_{dt} = 5 - 2P_t$, $Q_{st} = -2 + 4P_t$. The price adjustment equation: $P_{t+1} = P_t - 0.2(Q_{st} - Q_{dt})$. The inter-temporal equilibrium price is,",
+          "options": [
+            "3.24",
+            "1.51",
+            "1.16",
+            "2.32"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "The complementary function is ($A$ is an arbitrary constant),",
+          "options": [
+            "$\\left(\\frac{1}{5}\\right)^t$",
+            "$A(0.3)^t$",
+            "$A(-0.2)^t$",
+            "$A\\left(\\frac{1}{2}\\right)^t$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "The inter-temporal equilibrium is",
+          "options": [
+            "Non-oscillatory and convergent",
+            "Explosive oscillation",
+            "Uniform oscillation",
+            "Damped oscillation"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "In a phase diagram",
+          "options": [
+            "There cannot be oscillations around the inter-temporal equilibrium.",
+            "Both oscillations and monotonic movements are possible.",
+            "Convergence to the equilibrium is ensured if the absolute value of the slope is greater than 1 at the point of intersection with the 45 degree line.",
+            "Multiple equilibria cannot exist."
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "In second order difference equations the convergence of the time-path depends on",
+          "options": [
+            "The value of the non-dominant root of the characteristic equation",
+            "If the roots are complex",
+            "If the roots are of different signs",
+            "The value of the dominant characteristic root of the complementary function"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "Consider the difference equation $x_{t+2} + 4x_{t+1} + 3x_t = 8$. The characteristic roots of the complementary function are,",
+          "options": [
+            "0.5 and 0.25",
+            "0.5 and 0.5",
+            "$-1$ and $-3$",
+            "$-3$ and $-0.5$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "What kind of time-path of $x_t$ is obtained here?",
+          "options": [
+            "Monotonically divergent",
+            "Monotonically convergent",
+            "Uniform oscillation",
+            "Explosive oscillation"
+          ],
+          "correctAnswerIndex": 3
+        }
+      ]
+    }
+  }
+}
