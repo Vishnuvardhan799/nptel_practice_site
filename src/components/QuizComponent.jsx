@@ -163,9 +163,9 @@ const QuizComponent = memo(() => {
   // Year Selection Screen
   if (!selectedYear) {
     return (
-      <div className="min-h-screen bg-gray-50 dark:bg-gray-900 p-4 sm:p-6">
-        <div className="max-w-3xl mx-auto px-4 sm:px-0">
-          <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-4 mb-8">
+      <div className="min-h-screen bg-gray-50 dark:bg-gray-900 p-6">
+        <div className="max-w-3xl mx-auto">
+          <div className="flex justify-between items-center mb-8">
             <div>
               <h1 className="text-3xl font-bold text-gray-800 dark:text-white">
                 {renderMathContent("Mathematics for Economics - I")}
@@ -217,12 +217,12 @@ const QuizComponent = memo(() => {
             <h2 className="text-xl font-semibold text-gray-800 dark:text-white mb-6" tabIndex="0">
               {renderMathContent("Select Year")}
             </h2>
-            <div className="flex flex-col sm:flex-row flex-wrap gap-2 sm:gap-4" role="radiogroup" aria-label="Select a year">
+            <div className="flex gap-4 flex-wrap" role="radiogroup" aria-label="Select a year">
               {[2025, 2024, 2021].map((year) => (
                 <button
                   key={year}
                   onClick={() => setSelectedYear(year)}
-                  className="px-4 py-2 sm:px-6 sm:py-3 bg-blue-100 dark:bg-blue-900/50 hover:bg-blue-200 dark:hover:bg-blue-800 text-blue-700 dark:text-blue-200 font-medium rounded-lg transition-colors flex-1 min-w-[120px]"
+                  className="px-6 py-3 bg-blue-100 dark:bg-blue-900/50 hover:bg-blue-200 dark:hover:bg-blue-800 text-blue-700 dark:text-blue-200 font-medium rounded-lg transition-colors"
                   role="radio"
                   aria-checked={false}
                   tabIndex={0}
@@ -240,9 +240,9 @@ const QuizComponent = memo(() => {
   // Week Selection Screen
   if (!showResult && questions.length === 0) {
     return (
-      <div className="min-h-screen bg-gray-50 dark:bg-gray-900 p-4 sm:p-6">
-        <div className="max-w-4xl mx-auto px-4 sm:px-0">
-          <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-4 mb-6">
+      <div className="min-h-screen bg-gray-50 dark:bg-gray-900 p-6">
+        <div className="max-w-4xl mx-auto">
+          <div className="flex justify-between items-center mb-6">
             <div className="flex items-center">
               <button
                 onClick={() => {
@@ -310,7 +310,7 @@ const QuizComponent = memo(() => {
               {renderMathContent("Select Week")}
             </h3>
             <div
-              className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2 sm:gap-4 mb-6"
+              className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4 mb-6"
               role="radiogroup"
               aria-label="Select a week"
             >
@@ -318,7 +318,7 @@ const QuizComponent = memo(() => {
                 <button
                   key={i + 1}
                   onClick={() => startQuiz(selectedYear, String(i + 1))}
-                  className="py-2 px-3 sm:py-3 sm:px-4 bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 text-gray-800 dark:text-gray-200 font-medium rounded-lg transition-colors text-sm sm:text-base"
+                  className="py-3 px-4 bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 text-gray-800 dark:text-gray-200 font-medium rounded-lg transition-colors"
                   role="radio"
                   aria-checked={false}
                   tabIndex={0}
@@ -345,10 +345,10 @@ const QuizComponent = memo(() => {
     // Show review screen if user requested it
     if (showReview) {
       return (
-        <div className="min-h-screen bg-gray-50 dark:bg-gray-900 p-4 sm:p-6">
-          <div className="max-w-4xl mx-auto px-4 sm:px-0">
-            <div className="bg-white dark:bg-gray-800 rounded-xl shadow-md p-4 sm:p-6">
-              <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-4 mb-6">
+        <div className="min-h-screen bg-gray-50 dark:bg-gray-900 p-6">
+          <div className="max-w-4xl mx-auto">
+            <div className="bg-white dark:bg-gray-800 rounded-xl shadow-md p-6">
+              <div className="flex justify-between items-center mb-6">
                 <button
                   onClick={() => setShowReview(false)}
                   className="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300"
@@ -447,7 +447,7 @@ const QuizComponent = memo(() => {
                             <p className="text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
                               All Options:
                             </p>
-                            <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                            <div className="grid grid-cols-1 md:grid-cols-2 gap-2">
                               {question.shuffledOptions.map((opt, optIndex) => {
                                 let optionClass = "p-2 rounded border";
                                 if (optIndex === userAnswerIndex) {
@@ -483,10 +483,10 @@ const QuizComponent = memo(() => {
                 })}
               </div>
 
-              <div className="mt-8 flex flex-col sm:flex-row sm:justify-center sm:space-x-4 space-y-2 sm:space-y-0">
+              <div className="mt-8 flex justify-center space-x-4">
                 <button
                   onClick={() => setShowReview(false)}
-                  className="py-2 px-6 bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 text-gray-800 dark:text-gray-200 font-medium rounded-lg w-full sm:w-auto"
+                  className="py-2 px-6 bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 text-gray-800 dark:text-gray-200 font-medium rounded-lg"
                   tabIndex={0}
                 >
                   Back to Results
@@ -500,7 +500,7 @@ const QuizComponent = memo(() => {
                     setQuizResults([]);
                     navigate('/');
                   }}
-                  className="py-2 px-6 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg w-full sm:w-auto"
+                  className="py-2 px-6 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg"
                   tabIndex={0}
                 >
                   {renderMathContent("Home")}
@@ -514,14 +514,14 @@ const QuizComponent = memo(() => {
     
     // Original result screen 
     return (
-      <div className="min-h-screen bg-green-50 dark:bg-gray-900 p-4 sm:p-6">
-        <div className="max-w-2xl mx-auto px-4 sm:px-0">
+      <div className="min-h-screen bg-green-50 dark:bg-gray-900 p-6">
+        <div className="max-w-2xl mx-auto">
           <div
-            className="bg-white dark:bg-gray-800 rounded-xl shadow-md p-4 sm:p-6 text-center"
+            className="bg-white dark:bg-gray-800 rounded-xl shadow-md p-6 text-center"
             role="main"
             aria-labelledby="quiz-completed"
           >
-            <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-4 mb-4">
+            <div className="flex justify-between items-center mb-4">
               <button
                 onClick={() => {
                   setSelectedYear(null);
@@ -673,9 +673,9 @@ const QuizComponent = memo(() => {
   const progress = ((currentQuestionIndex + 1) / questions.length) * 100;
 
   return (
-    <div className="min-h-screen bg-gray-50 dark:bg-gray-900 p-4 sm:p-6">
-      <div className="max-w-3xl mx-auto px-4 sm:px-0">
-        <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-4 mb-6">
+    <div className="min-h-screen bg-gray-50 dark:bg-gray-900 p-6">
+      <div className="max-w-3xl mx-auto">
+        <div className="flex justify-between items-center mb-6">
           <div className="flex items-center">
             <button
               onClick={() => {
@@ -747,7 +747,7 @@ const QuizComponent = memo(() => {
             ></div>
           </div>
 
-          <div className="p-4 sm:p-6">
+          <div className="p-6">
             <div className="text-sm text-gray-500 dark:text-gray-400 mb-4" tabIndex="0">
               {renderMathContent(`${selectedYear} • Week ${selectedWeek === "all" ? "All" : selectedWeek}`)}
             </div>
@@ -762,7 +762,7 @@ const QuizComponent = memo(() => {
                   key={idx}
                   onClick={() => handleOptionSelect(idx)}
                   onKeyDown={(e) => handleOptionKeyDown(idx, e)}
-                  className={`w-full text-left p-3 sm:p-4 rounded-lg border transition-colors ${
+                  className={`w-full text-left p-4 rounded-lg border transition-colors ${
                     selectedOption === idx
                       ? "border-blue-500 bg-blue-50 dark:bg-blue-900/30"
                       : "border-gray-200 dark:border-gray-700 hover:border-blue-300 dark:hover:border-blue-600 hover:bg-gray-50 dark:hover:bg-gray-700/50"
@@ -794,7 +794,7 @@ const QuizComponent = memo(() => {
               <button
                 onClick={handleNext}
                 disabled={selectedOption === null}
-                className={`py-3 px-4 sm:px-8 font-medium rounded-lg transition-colors ${
+                className={`py-3 px-8 font-medium rounded-lg transition-colors ${
                   selectedOption === null
                     ? "bg-gray-300 dark:bg-gray-700 text-gray-500 dark:text-gray-400 cursor-not-allowed"
                     : "bg-blue-600 hover:bg-blue-700 text-white"

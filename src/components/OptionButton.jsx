@@ -36,7 +36,7 @@ const OptionButton = memo(({ option, index, isSelected, onSelect }) => {
     <button
       key={index}
       onClick={() => onSelect(index)}
-      className={`w-full text-left p-3 sm:p-4 rounded-lg border transition-colors ${
+      className={`w-full text-left p-4 rounded-lg border transition-colors ${
         isSelected
           ? "border-blue-500 bg-blue-50 dark:bg-blue-900/30"
           : "border-gray-200 dark:border-gray-700 hover:border-blue-300 dark:hover:border-blue-600 hover:bg-gray-50 dark:hover:bg-gray-700/50"
