@@ -1972,6 +1972,992 @@
       "correctAnswerIndex": 1
     }
   ]
-}
+}, 
+"2021": {
+      "1": [
+        {
+          "question": "$|x - 1| < 2$ means",
+          "options": [
+            "$(a)\\ -1 < x < 3$",
+            "$(b)\\ x > 3$",
+            "$(c)\\ x = 3$",
+            "$(d)\\ x = -2$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "$x$ is a real number implies",
+          "options": [
+            "$(a)\\ x$ is a natural number",
+            "$(b)\\ x$ is not a natural number",
+            "$(c)\\ x$ is a rational number",
+            "$(d)\\ \\text{None of the above can be deduced}$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "$P \\rightarrow Q$, where $P$ and $Q$ are two statements, therefore",
+          "options": [
+            "$(a)\\ \\text{Whenever } Q \\text{ is true } P \\text{ is true}$",
+            "$(b)\\ Q \\text{ and } P \\text{ are equivalent}$",
+            "$(c)\\ \\text{Whenever } P \\text{ is true } Q \\text{ is true}$",
+            "$(d)\\ \\text{If } P \\text{ is not true } Q \\text{ is not true}$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "Which of the following is correct?",
+          "options": [
+            "$(a)\\ \\text{Being a real number is sufficient for being an odd number}$",
+            "$(b)\\ \\text{A number is irrational if and only if it is a real}$",
+            "$(c)\\ \\text{An even number is always a real number}$",
+            "$(d)\\ \\text{All of the above}$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "Given $x > 2$, $y > 3$, we conclude $x + y > 5$. This is an example of",
+          "options": [
+            "$(a)\\ \\text{Inductive reasoning}$",
+            "$(b)\\ \\text{Deductive reasoning}$",
+            "$(c)\\ \\text{Empirical reasoning}$",
+            "$(d)\\ \\text{Irrational reasoning}$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "$x^2 - 4x + 3 = 0$ is true",
+          "options": [
+            "$(a)\\ \\text{If } x = 1$",
+            "$(b)\\ \\text{If and only if } x = 1$",
+            "$(c)\\ \\text{Only if } x = 1$",
+            "$(d)\\ \\text{If } x \\neq 1$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "$x^2 > 16$ implies,",
+          "options": [
+            "$(a)\\ x > 4 \\text{ only}$",
+            "$(b)\\ x > -4 \\text{ only}$",
+            "$(c)\\ x < -4 \\text{ only}$",
+            "$(d)\\ \\text{None of the above}$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "Azad has arrived in Guwahati implies,",
+          "options": [
+            "$(a)\\ \\text{Azad arrived at Panbazar in Guwahati}$",
+            "$(b)\\ \\text{Azad has not arrived in India.}$",
+            "$(c)\\ \\text{Azad has arrived in Assam}$",
+            "$(d)\\ \\text{None of the above.}$"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ],
+      "2": [
+        {
+          "question": "$A = \\text{set of all male students in a class},\\ B = \\text{set of all left handed students in the class},\\ A \\cup B$ denotes the set of",
+          "options": [
+            "$(a)\\ \\text{Male students in the class}$",
+            "$(b)\\ \\text{Female students in the class}$",
+            "$(c)\\ \\text{Male students in the class who are right handed}$",
+            "$(d)\\ \\text{Students in the class who are either male or left handed (or both).}$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "$A = \\text{set of all male students in a class},\\ B = \\text{set of all left handed students in the class}.\\ A \\cap B$ denotes the set of",
+          "options": [
+            "$(a)\\ \\text{Male students in the class.}$",
+            "$(b)\\ \\text{Male students in the class who are left handed.}$",
+            "$(c)\\ \\text{Students in the class who are either male or are left handed (or both).}$",
+            "$(d)\\ \\text{Female left handed students in the class.}$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "$A = \\text{set of all male students in a class},\\ B = \\text{set of all left handed students in the class}.\\ A \\setminus B$ denotes the set of",
+          "options": [
+            "$(a)\\ \\text{Male students in the class who are left handed.}$",
+            "$(b)\\ \\text{Male students in the class who are not left handed.}$",
+            "$(c)\\ \\text{Students in the class who are either male or are left handed (or both).}$",
+            "$(d)\\ \\text{Female students who are right handed.}$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "$A = \\{1, 2, 4, 3\\},\\ B = \\{2, 3, 4\\},\\ C = \\{1, 5\\}.\\ A \\cup B =$",
+          "options": [
+            "$(a)\\ \\text{Set } A$",
+            "$(b)\\ \\{2, 3, 4\\}$",
+            "$(c)\\ \\{1, 2\\}$",
+            "$(d)\\ \\varnothing, \\text{the null set}$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "$A = \\{1, 2, 4, 3\\},\\ B = \\{2, 3, 4\\},\\ C = \\{1, 5\\}.\\ B \\cap C =$",
+          "options": [
+            "$(a)\\ \\{2, 3, 4\\}$",
+            "$(b)\\ \\varnothing, \\text{the null set}$",
+            "$(c)\\ \\{1, 2, 3, 4, 5\\}$",
+            "$(d)\\ \\text{Set } A$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "$A = \\{1, 2, 4, 3\\},\\ B = \\{2, 3, 4\\},\\ C = \\{1, 5\\}.\\ A \\cup (B \\cap C) =$",
+          "options": [
+            "$(a)\\ \\{1, 2, 3, 4, 5\\}$",
+            "$(b)\\ \\text{Set } B$",
+            "$(c)\\ \\{1, 5\\}$",
+            "$(d)\\ \\text{Set } A$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "Let $W$ denote the universal set, set of all rational numbers. $A$ be the set of even numbers. $A^C$, or the set of $A$ complement =",
+          "options": [
+            "$(a)\\ \\text{Set of odd numbers.}$",
+            "$(b)\\ \\text{Set of numbers which are even and negative.}$",
+            "$(c)\\ \\text{Set of rational numbers which are not even.}$",
+            "$(d)\\ \\text{Set of irrational numbers.}$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "Let $W$ denote the universal set, set of all rational numbers. $A$ be the set of even numbers. $W \\setminus A =$",
+          "options": [
+            "$(a)\\ \\text{Set of odd numbers.}$",
+            "$(b)\\ \\text{Set of positive, even numbers.}$",
+            "$(c)\\ \\text{Set of even numbers.}$",
+            "$(d)\\ \\text{Set of irrational number.}$"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ],
+      "3": [
+        {
+          "question": "For the function $f(x) = |x|$ the domain is the set of real numbers. The range of the function is",
+          "options": [
+            "$(a)\\ (0, -\\infty)$",
+            "$(b)\\ (-\\infty, \\infty)$",
+            "$(c)\\ [0, \\infty)$",
+            "$(d)\\ [1, \\infty)$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "For the equation $x^2 + y^2 + 3x + 1 = 0$ the corresponding graph is a",
+          "options": [
+            "$(a)\\ \\text{Straight line through the origin.}$",
+            "$(b)\\ \\text{Straight line with a positive intercept.}$",
+            "$(c)\\ \\text{Parabola.}$",
+            "$(d)\\ \\text{Circle.}$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "$x^2 + y^2 - 2x = 0$ cannot represent $y$ as a function of $x$. This statement is",
+          "options": [
+            "$(a)\\ \\text{Incorrect.}$",
+            "$(b)\\ \\text{Correct.}$",
+            "$(c)\\ \\text{Cannot say.}$",
+            "$(d)\\ \\text{Both correct and incorrect.}$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "The equation of the line passing through $(0, 1)$, $(1, 1)$ is given by",
+          "options": [
+            "$(a)\\ x^2 + y^2 = 0$",
+            "$(b)\\ y = 1$",
+            "$(c)\\ 2x + y = 1$",
+            "$(d)\\ x = 2$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "In a market the demand and supply functions are given by $Q^d = 4 - P$ and $Q^s = -2 + 2P$. The equilibrium price and quantity are",
+          "options": [
+            "$(a)\\ 2 \\text{ and } 2$",
+            "$(b)\\ 2 \\text{ and } 4$",
+            "$(c)\\ 4 \\text{ and } 2$",
+            "$(d)\\ 3 \\text{ and } 6$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "In a market the demand and supply functions are given by $Q^d = 4 - P$ and $Q^s = -2 + 2P$ respectively. Suppose there is a sudden rise in market demand, the demand function shifts upwards by 2 units. The equilibrium price will",
+          "options": [
+            "$(a)\\ \\text{Fall to } \\frac{1}{3}$",
+            "$(b)\\ \\text{Rise to } \\frac{7}{2}$",
+            "$(c)\\ \\text{Rise to } \\frac{8}{3}$",
+            "$(d)\\ \\text{Remain unchanged}$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "A firm’s profit is given by the quadratic function, $C(x) = -x^2 + 6x - 5$, where $x$ is the output level. The profit is maximum at the output level",
+          "options": [
+            "$(a)\\ 2$",
+            "$(b)\\ 8$",
+            "$(c)\\ 9$",
+            "$(d)\\ 3$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "You have 100 rupees in the bank which pays 10% interest per year. After how many years the money will double to 200 rupees?",
+          "options": [
+            "$(a)\\ \\text{7.3 years approx.}$",
+            "$(b)\\ \\text{10 years.}$",
+            "$(c)\\ \\text{8.1 years approx.}$",
+            "$(d)\\ \\text{5.5 years.}$"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ],
+      "4": [
+        {
+          "question": "If $f(x) = 3x^4 + 2$, then $f'(-1) =$",
+          "options": [
+            "$(a)\\ 3$",
+            "$(b)\\ -3$",
+            "$(c)\\ -12$",
+            "$(d)\\ 4$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "The cost function of a firm is given by, $C(q) = -q^3 + 2q^2 - q + 10$. The marginal cost is,",
+          "options": [
+            "$(a)\\ -3q^2 + 4q - 1$",
+            "$(b)\\ -3$",
+            "$(c)\\ -q^3 + 2q - 1$",
+            "$(d)\\ \\frac{-q^3 + 2q^2 - q + 10}{q}$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "$\\frac{f(a + h) - f(a)}{h}$ is called",
+          "options": [
+            "$(a)\\ \\text{Einstein quotient}$",
+            "$(b)\\ \\text{Elizabeth quotient}$",
+            "$(c)\\ \\text{Leibniz quotient}$",
+            "$(d)\\ \\text{Newton quotient}$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "If the demand function is given by $D(p) = \\frac{100}{p}$, the price elasticity of demand is,",
+          "options": [
+            "$(a)\\ 5$",
+            "$(b)\\ -1$",
+            "$(c)\\ -5$",
+            "$(d)\\ 100$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "The GDP of a country is growing at 10% per year in nominal terms, the price level is rising at 4% per year. The GDP in real terms is growing at",
+          "options": [
+            "$(a)\\ 9\\% \\text{ per year.}$",
+            "$(b)\\ 4\\% \\text{ per year.}$",
+            "$(c)\\ 6\\% \\text{ per year.}$",
+            "$(d)\\ 5\\% \\text{ per year.}$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "The production function of a firm is given by, $Q(L, K) = 4L^{0.6}K^{0.3}$. The marginal products of labour ($L$) and capital ($K$) are given by,",
+          "options": [
+            "$(a)\\ 2.4L^{0.6}K^{0.3}, 2.4L^{0.6}K^{0.3}$",
+            "$(b)\\ 1.2L^{-0.4}K^{0.3}, 2.4L^{0.6}K^{-0.3}$",
+            "$(c)\\ 2.4L^{-0.4}K^{0.3}, 1.4L^{0.6}K^{0.3}$",
+            "$(d)\\ 2.4L^{-0.4}K^{0.3}, 1.2L^{0.6}K^{-0.7}$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "Suppose the production function of a firm is given by, $Q(L, K) = 5L^{0.6}K^{0.4}$. The isoquant at output level 20 is given by,",
+          "options": [
+            "$(a)\\ 4 = L^{0.6}K^{0.4}$",
+            "$(b)\\ 20 = L^{0.6} + K^{0.4}$",
+            "$(c)\\ 20 > L^{0.6}K^{0.4}$",
+            "$(d)\\ 20 \\geq L^{0.6}K^{0.4}$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "Revenue = Price × Quantity. For a firm the price is rising at 4% per year, quantity sold is rising at 2% per year. The revenue of the firm is growing at",
+          "options": [
+            "$(a)\\ 4\\% \\text{ per year.}$",
+            "$(b)\\ 6\\% \\text{ per year.}$",
+            "$(c)\\ 3\\% \\text{ per year.}$",
+            "$(d)\\ \\text{None of the above.}$"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ],
+      "5": [
+        {
+          "question": "If $f(x) = 2x^3 + \\frac{1}{x} + 5$, then $f''(x) =$",
+          "options": [
+            "$(a)\\ 12x - \\frac{3}{x^3}$",
+            "$(b)\\ 6x + \\frac{2}{x^3}$",
+            "$(c)\\ 12x + \\frac{2}{x^3}$",
+            "$(d)\\ 6x + \\frac{2}{x^3}$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "If $f(x) = 2x^3 + \\frac{1}{x} + 5$, then $f'''(x) =$",
+          "options": [
+            "$(a)\\ 12 - \\frac{6}{x^4}$",
+            "$(b)\\ 12x - \\frac{6}{x^3}$",
+            "$(c)\\ 6 + \\frac{6}{x^4}$",
+            "$(d)\\ 12x + \\frac{6}{x^4}$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "In an economy the consumption and investment functions are, $C = 100 + 0.9Y$, $I = 50$ respectively. The investment multiplier is,",
+          "options": [
+            "$(a)\\ 150$",
+            "$(b)\\ 10$",
+            "$(c)\\ \\frac{1}{0.9}$",
+            "$(d)\\ 100$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "$f(x) = 2x^3 + 4x$. Linear approximation of the function about $x = 0$ is,",
+          "options": [
+            "$(a)\\ 6x^2 + 4$",
+            "$(b)\\ 4x$",
+            "$(c)\\ 4$",
+            "$(d)\\ 12x$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "$f(x) = 2x^3 + 4x$. Quadratic approximation of the function about $x = 0$ is,",
+          "options": [
+            "$(a)\\ 6x^2$",
+            "$(b)\\ 4x^2 + 4$",
+            "$(c)\\ 6x^2 + 4$",
+            "$(d)\\ 4x$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "The demand function is given by, $q = 20 + \\frac{4}{p}$, where $p$ is the price. As price changes by $dp$, change in demand $dq$ is given by,",
+          "options": [
+            "$(a)\\ 20 + \\frac{4}{dp}$",
+            "$(b)\\ \\frac{4}{p}$",
+            "$(c)\\ \\frac{4}{p^2}$",
+            "$(d)\\ -\\frac{4}{p^2} dp$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "As the price of a good changes, the revenue the producers get remains constant. The price elasticity of demand is,",
+          "options": [
+            "$(a)\\ 0$",
+            "$(b)\\ -1$",
+            "$(c)\\ 1$",
+            "$(d)\\ \\infty$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "Elasticity of $x$ with respect to $y$ is given by,",
+          "options": [
+            "$(a)\\ \\frac{dy}{dx}$",
+            "$(b)\\ \\frac{dx}{dy}$",
+            "$(c)\\ \\frac{y}{x} \\frac{dy}{dx}$",
+            "$(d)\\ \\frac{y}{x} \\frac{dx}{dy}$"
+          ],
+          "correctAnswerIndex": 3
+        }
+      ],
+      "6": [
+        {
+          "question": "$\\lim_{x \\to \\infty} \\frac{x^2 - x + 5}{2x^2 + x - 3} =$",
+          "options": [
+            "$(a)\\ 0$",
+            "$(b)\\ \\infty$",
+            "$(c)\\ -1$",
+            "$(d)\\ \\frac{1}{2}$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "If functions $f(x)$ and $g(x)$ are continuous at $x = a$, is function $\\frac{f(x)}{g(x)}$ continuous at $x = a$?",
+          "options": [
+            "$(a)\\ \\text{Yes, always.}$",
+            "$(b)\\ \\text{Never.}$",
+            "$(c)\\ \\text{Yes, if } g(a) \\neq 0$",
+            "$(d)\\ \\text{Yes, if } f(a) \\neq 0$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "The function $f(x) = \\frac{2}{x - 1}$ is",
+          "options": [
+            "$(a)\\ \\text{Continuous for all real } x$",
+            "$(b)\\ \\text{Not continuous at } x = 0$",
+            "$(c)\\ \\text{Not continuous at } x = 1$",
+            "$(d)\\ \\text{Not differentiable at } x = 0$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "A man kept 100 rupees in the bank which pays him 10% compound rate of interest per year. After infinite number of years the money will grow to,",
+          "options": [
+            "$(a)\\ \\frac{1000}{9} \\text{ rupees}$",
+            "$(b)\\ \\infty \\text{ rupees}$",
+            "$(c)\\ 1000 \\text{ rupees}$",
+            "$(d)\\ 10000 \\text{ rupees}$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "A firm will receive 100, 200, 200 rupees after 1, 2 and 3 years respectively. The rate of interest is 5% per year. The present discounted value of the income stream is,",
+          "options": [
+            "$(a)\\ 450 \\text{ rupees (approx.)}$",
+            "$(b)\\ 400 \\text{ rupees (approx.)}$",
+            "$(c)\\ 500 \\text{ rupees (approx.)}$",
+            "$(d)\\ 550 \\text{ rupees (approx.)}$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "A man has taken a loan of 5000 rupees which he will return in equal annual instalments over 5 years. The rate of interest is 10%. The amount of annual instalment is,",
+          "options": [
+            "$(a)\\ 1320 \\text{ rupees (approx.)}$",
+            "$(b)\\ 1500 \\text{ rupees (approx.)}$",
+            "$(c)\\ 1110 \\text{ rupees (approx.)}$",
+            "$(d)\\ 1240 \\text{ rupees (approx.)}$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "An investment project costs 1000 rupees now. It yields returns of 500 rupees and 700 rupees after 1st and 2nd year respectively. The annual rate of interest is 10%. Should the project be undertaken according to NPV criterion?",
+          "options": [
+            "$(a)\\ \\text{No}$",
+            "$(b)\\ \\text{Yes}$",
+            "$(c)\\ \\text{Cannot say}$",
+            "$(d)\\ \\text{It depends on the weather.}$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "Using L’Hospital’s rule, $\\lim_{x \\to \\infty} \\frac{2x + x^2}{1 - x} =$",
+          "options": [
+            "$(a)\\ -\\infty$",
+            "$(b)\\ 0$",
+            "$(c)\\ -1$",
+            "$(d)\\ \\infty$"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ],
+      "7": [
+        {
+          "question": "For function $f$, point $c$ in the domain $D$ is called a strict minimum point if for all $x$ in $D$ and $x \\ne c$",
+          "options": [
+            "$(a)\\ f(x) < f(c)$",
+            "$(b)\\ f(x) > f(c)$",
+            "$(c)\\ f(x) \\geq f(c)$",
+            "$(d)\\ f(x) \\leq f(c)$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "Point $c$ maximizes $f$ in $D$ if",
+          "options": [
+            "$(a)\\ c \\text{ minimizes } -f \\text{ in } D$",
+            "$(b)\\ c \\text{ minimizes } f \\text{ in } D$",
+            "$(c)\\ c \\text{ is an inflection point}$",
+            "$(d)\\ -c \\text{ maximizes } f \\text{ in } D$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "Suppose $c$ is a stationary point of $f$, then",
+          "options": [
+            "$(a)\\ f(c) = 0$",
+            "$(b)\\ f(c) > 0$",
+            "$(c)\\ f'(c) = 0$",
+            "$(d)\\ f'(c) > 0$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "Which of the following statements is correct?",
+          "options": [
+            "$(a)\\ \\text{All extreme points are stationary points.}$",
+            "$(b)\\ \\text{All stationary points are extreme points.}$",
+            "$(c)\\ \\text{Some stationary points are extreme points.}$",
+            "$(d)\\ \\text{No stationary point is an extreme point.}$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "$f$ is a well-defined, differentiable function in an interval. Suppose $f'(x) > 0$ for $x < c$, and $f'(x) < 0$ for $x > c$ in that interval, then",
+          "options": [
+            "$(a)\\ c \\text{ is an inflection point.}$",
+            "$(b)\\ c \\text{ is a stationary point.}$",
+            "$(c)\\ c \\text{ is a minimum point.}$",
+            "$(d)\\ c \\text{ is a maximum point.}$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "Let $f(L)$ be the production function with labour as the input, $p$ be the price. $pf'(L) =$",
+          "options": [
+            "$(a)\\ \\text{Production done by labour.}$",
+            "$(b)\\ \\text{Value of output.}$",
+            "$(c)\\ \\text{Value of marginal product of labour.}$",
+            "$(d)\\ \\text{Marginal product of labour.}$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "Which of the following is correct?",
+          "options": [
+            "$(a)\\ \\text{If } f'(c) = 0, \\text{ then } c \\text{ is a maximum point of } f.$",
+            "$(b)\\ \\text{If } f'(c) = 0, \\text{ then } c \\text{ is an extreme point of } f.$",
+            "$(c)\\ \\text{If } c \\text{ is a maximum point of a differentiable function } f, \\text{ then } f'(c) \\text{ is indeterminate.}$",
+            "$(d)\\ \\text{If } c \\text{ is a maximum point of a differentiable function } f, \\text{ then } f'(c) = 0$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "The profit function of a firm is, $p(q) = \\frac{q^3}{3} - \\frac{5q^2}{2} + 6q + 10$. The stationary points of the function are,",
+          "options": [
+            "$(a)\\ 2, 3$",
+            "$(b)\\ 1, 2$",
+            "$(c)\\ 0, 4$",
+            "$(d)\\ -1, 1$"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ],
+      "8": [
+        {
+          "question": "$c$ is an interior point of interval $I$, on which a twice-differentiable function $f$ is defined. $c$ is a stationary point of $f$ and $f''(c) > 0$, then",
+          "options": [
+            "$(a)\\ c \\text{ is an inflection point.}$",
+            "$(b)\\ f(x) < f(c) \\text{ for all } x$",
+            "$(c)\\ f \\text{ attains its minimum at } c.$",
+            "$(d)\\ f \\text{ attains its maximum at } c.$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "The revenue and cost functions of a monopoly firm are $R(q)$ and $C(q)$ respectively. The condition $R'(q) = C'(q)$ is satisfied at two output levels, $q_1$ and $q_2$. $R''(q) > C''(q)$ at $q_1$, and $R''(q) < C''(q)$ at $q_2$. The profit of the producer is maximized at $q =$",
+          "options": [
+            "$(a)\\ q_1$",
+            "$(b)\\ q_2$",
+            "$(c)\\ 0$",
+            "$(d)\\ \\frac{q_1 + q_2}{2}$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "The revenue and cost functions of a monopoly firm are $R(q)$ and $C(q)$ respectively. The condition $R'(q) = C'(q)$ is satisfied at two output levels, $q_1$ and $q_2$. $R''(q) > C''(q)$ at $q_1$, and $R''(q) < C''(q)$ at $q_2$. The profit of the producer is minimized at $q =$",
+          "options": [
+            "$(a)\\ q_1$",
+            "$(b)\\ q_2$",
+            "$(c)\\ \\text{There is no minimum}$",
+            "$(d)\\ \\frac{q_1 - q_2}{2}$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "A land plot’s value at time $t$ is given by $t^2$. The rate of interest is 10% a year. To maximize the present discounted value, the plot should be sold off after",
+          "options": [
+            "$(a)\\ 2 \\text{ years.}$",
+            "$(b)\\ 10 \\text{ years.}$",
+            "$(c)\\ 5 \\text{ years.}$",
+            "$(d)\\ 20 \\text{ years.}$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "A twice-differentiable function $f$ is defined on the interior of an interval $I$. $f''(x) < 0$ for all $x$ in the interval, then",
+          "options": [
+            "$(a)\\ f \\text{ is concave on the interval.}$",
+            "$(b)\\ f \\text{ is convex on the interval.}$",
+            "$(c)\\ f \\text{ is linear on the interval.}$",
+            "$(d)\\ f \\text{ is an exponential function on the interval.}$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "$f(x) = ax^2 + bx + c$ is a convex function if",
+          "options": [
+            "$(a)\\ 2a + b > 0$",
+            "$(b)\\ b = 0$",
+            "$(c)\\ b + c > 0$",
+            "$(d)\\ a > 0$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "$f(x) = ax^3 + bx^2 + cx + d$ has an inflection point at",
+          "options": [
+            "$(a)\\ -\\frac{b}{3a}$",
+            "$(b)\\ \\frac{a}{b}$",
+            "$(c)\\ -\\frac{a}{b+c}$",
+            "$(d)\\ 2c + d$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "A firm in a perfect competition market faces a price of 4 rupees, its cost function is $C(q) = q^2 + 2q$. Its profit maximizing output is",
+          "options": [
+            "$(a)\\ 10$",
+            "$(b)\\ 1$",
+            "$(c)\\ 50$",
+            "$(d)\\ 5$"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ],
+      "9": [
+        {
+          "question": "$F(x)$ is a function which is continuous in $[a, b]$, $f(x) = F'(x)$. The area between points $a$ and $b$, below the function $f(x)$ and above the x-axis is",
+          "options": [
+            "$(a)\\ F(a) - F(b)$",
+            "$(b)\\ F(b) - F(a)$",
+            "$(c)\\ F(a) - F(0)$",
+            "$(d)\\ f(b) - f(0)$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "$f(x) = x^2$, the area below $f(x)$, above x-axis, between 0 and 2 is",
+          "options": [
+            "$(a)\\ \\frac{1}{3}$",
+            "$(b)\\ \\frac{2}{3}$",
+            "$(c)\\ \\frac{8}{3}$",
+            "$(d)\\ 3$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "$\\int \\ln x\\,dx =$",
+          "options": [
+            "$(a)\\ \\ln |x| + C$",
+            "$(b)\\ \\ln |x|$",
+            "$(c)\\ \\ln x + C$",
+            "$(d)\\ \\ln |x|$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "Let $I = \\int (5x^4 + 3)\\,dx$, The integrand in $I$ is,",
+          "options": [
+            "$(a)\\ dx$",
+            "$(b)\\ x$",
+            "$(c)\\ 5x^4 + 3$",
+            "$(d)\\ 5x^4$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "Let $I = \\int (5x^4 + 3)\\,dx$, $I =$",
+          "options": [
+            "$(a)\\ 5x^4 + 3$",
+            "$(b)\\ 20x^3$",
+            "$(c)\\ x^5 + 3x$",
+            "$(d)\\ x^5 + 3x + C$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "The marginal cost of a firm is $3q^2 + q + 2$, the fixed cost is 5, its average cost is",
+          "options": [
+            "$(a)\\ q^2 + \\frac{q}{2} + 2 + \\frac{5}{q}$",
+            "$(b)\\ q^2 + q + 2$",
+            "$(c)\\ q^3 + \\frac{q^2}{2} + 2q + 5$",
+            "$(d)\\ 3q + 1 + \\frac{2}{q}$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "$\\int_1^5 \\left(3x^2 - \\frac{1}{x}\\right)\\,dx =$",
+          "options": [
+            "$(a)\\ 125 - \\ln 5$",
+            "$(b)\\ 25 - \\ln 4$",
+            "$(c)\\ 24 - \\ln 4$",
+            "$(d)\\ 124 - \\ln 5$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "$\\frac{d}{dt} \\int_a^t f(x)\\,dx =$",
+          "options": [
+            "$(a)\\ f(t) - f(a)$",
+            "$(b)\\ f(t)$",
+            "$(c)\\ -f(a)$",
+            "$(d)\\ f(t) - f(a) + C$"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ],
+      "10": [
+        {
+          "question": "A country has an initial reserve of foreign exchange, $Q$. Foreign exchange is flowing out of the country at the rate of $v(t)$ at time $t$, with no inflow. At $t$ the foreign exchange reserve is,",
+          "options": [
+            "$(a)\\ \\int_0^t v(z)\\,dz$",
+            "$(b)\\ Q - \\int_0^t v(z)\\,dz$",
+            "$(c)\\ Q + \\int_0^t v(z)\\,dz$",
+            "$(d)\\ \\int_0^t Q v(z)\\,dz$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "There is an oil well with an initial reserve of 32 million barrels. The rate of extraction at time $t$ is given by $u(t) = t$ million barrels. The well will exhaust after time",
+          "options": [
+            "$(a)\\ 16$",
+            "$(b)\\ 24$",
+            "$(c)\\ 8$",
+            "$(d)\\ 4$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "Let $F(r)$ be the proportion of individuals in a country with income no more than $r$ rupees, $F(r)$ is called the",
+          "options": [
+            "$(a)\\ \\text{Cumulative distribution function of income}$",
+            "$(b)\\ \\text{Income density function}$",
+            "$(c)\\ \\text{Uniform income density function}$",
+            "$(d)\\ \\text{Logarithmic function of income}$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "If there are $n$ number of people and $f(r)$ be the income density function, the number of people earning between incomes $a$ to $b$ ($a < b$) is,",
+          "options": [
+            "$(a)\\ n f(r)$",
+            "$(b)\\ n \\int_a^b r f(r)\\,dr$",
+            "$(c)\\ n[f(b) - f(a)]$",
+            "$(d)\\ n \\int_a^b f(r)\\,dr$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "If $f(r)$ be the income density function and $n$ is the total number of people, then total income of people earning between $a$ to $b$ ($a < b$) is,",
+          "options": [
+            "$(a)\\ n \\int_a^b r f(r)\\,dr$",
+            "$(b)\\ n \\int_a^b f(r)\\,dr$",
+            "$(c)\\ f(b) - f(a)$",
+            "$(d)\\ f(a) - f(b)$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "There is a stream of income from period 0 to $T$ of $y(t)$ at time $t$. There is continuous discounting of income with $x$ as the annual, compound rate of interest. Present Discounted Value of the income stream =",
+          "options": [
+            "$(a)\\ y(t)T$",
+            "$(b)\\ y(t) - y(0)$",
+            "$(c)\\ \\int_0^T y(t)\\,dt$",
+            "$(d)\\ \\int_0^T y(t)e^{-xt}\\,dt$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "An asset pays a return of 50 rupees per year, the rate of interest is 5% per year. With continuous discounting what is the PDV of returns if it’s paid in perpetuity?",
+          "options": [
+            "$(a)\\ 500 \\text{ rupees}$",
+            "$(b)\\ 100 \\text{ rupees}$",
+            "$(c)\\ 1000 \\text{ rupees}$",
+            "$(d)\\ 10000 \\text{ rupees}$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "$\\int (x^7 + 1)^6 x^6\\,dx =$",
+          "options": [
+            "$(a)\\ \\frac{1}{7}(x^7 + 1)^6 + C$",
+            "$(b)\\ \\frac{(x^7 + 1)^7}{49} + C$",
+            "$(c)\\ \\frac{(x^7 + 1)^7}{7} + C$",
+            "$(d)\\ \\frac{(x^6 + 1)^6}{49} + C$"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ],
+      "11": [
+        {
+          "question": "The difference equation $y_{t+1} = 6y_t - 7$ is a",
+          "options": [
+            "$(a)\\ \\text{Homogenous difference equation.}$",
+            "$(b)\\ \\text{Non-homogenous difference equation.}$",
+            "$(c)\\ \\text{Second degree difference equation.}$",
+            "$(d)\\ \\text{Third order difference equation.}$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "The difference equation $y_{t+5} + 3(y_t)^2 = 4$ is a",
+          "options": [
+            "$(a)\\ \\text{Linear difference equation.}$",
+            "$(b)\\ \\text{Third order difference equation.}$",
+            "$(c)\\ \\text{Homogenous difference equation.}$",
+            "$(d)\\ \\text{Fifth order difference equation.}$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "Solution of the difference equation $y_{t+1} = y_t$ is,",
+          "options": [
+            "$(a)\\ y_t = \\left(\\frac{1}{2}\\right)^t y_0$",
+            "$(b)\\ y_t = \\left(-\\frac{1}{2}\\right)^t y_0 + 4$",
+            "$(c)\\ y_t = (2)^t y_0$",
+            "$(d)\\ y_t = y_0$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "The two components of the solution of a difference equation are called",
+          "options": [
+            "$(a)\\ \\text{Particular integral and constant of integration.}$",
+            "$(b)\\ \\text{General solution and definite solution.}$",
+            "$(c)\\ \\text{Particular integral and complementary function.}$",
+            "$(d)\\ \\text{General solution and complementary function.}$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "The particular integral of the equation $y_{t+1} - 2y_t = 4$ is,",
+          "options": [
+            "$(a)\\ -4$",
+            "$(b)\\ 2$",
+            "$(c)\\ \\frac{1}{2}$",
+            "$(d)\\ 4$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "For $y_{t+1} - 2y_t = 4$ the complementary function is ($A$ is an arbitrary constant),",
+          "options": [
+            "$(a)\\ -4$",
+            "$(b)\\ A\\left(\\frac{1}{2}\\right)^t$",
+            "$(c)\\ 4$",
+            "$(d)\\ A(2)^t$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "The dynamic stability of the equilibrium of a difference equation is determined by the",
+          "options": [
+            "$(a)\\ \\text{Particular integral of the solution.}$",
+            "$(b)\\ \\text{Complementary function of the solution.}$",
+            "$(c)\\ \\text{Initial conditions.}$",
+            "$(d)\\ \\text{Order of the difference equation.}$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "In Cobweb model the equilibrium is dynamically stable if,",
+          "options": [
+            "$(a)\\ \\text{The demand function is flatter than the supply function.}$",
+            "$(b)\\ \\text{The demand function has zero slope.}$",
+            "$(c)\\ \\text{The demand function is steeper than the supply function.}$",
+            "$(d)\\ \\text{The supply function has a slope of 1.}$"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ],
+      "12": [
+        {
+          "question": "In the market model with inventory we discussed there is a",
+          "options": [
+            "$(a)\\ \\text{Linear, first order difference equation.}$",
+            "$(b)\\ \\text{Quadratic, first order difference equation.}$",
+            "$(c)\\ \\text{Quadratic, second order difference equation.}$",
+            "$(d)\\ \\text{Linear, second order difference equation.}$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "In the market model with inventory we discussed price adjustment takes place in proportion to",
+          "options": [
+            "$(a)\\ \\text{Weather conditions.}$",
+            "$(b)\\ \\text{Excess demand/supply.}$",
+            "$(c)\\ \\text{Tastes and preferences.}$",
+            "$(d)\\ \\text{Expectations}$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "For Question 3-5: The demand and supply functions: $Q_t^d = 3 - P_t$, $Q_t^s = -3 + 2P_t$. The price adjustment equation: $P_{t+1} = P_t - \\frac{1}{6}(Q_t^s - Q_t^d)$. The inter-temporal equilibrium price is,",
+          "options": [
+            "$(a)\\ 2$",
+            "$(b)\\ 3$",
+            "$(c)\\ 1$",
+            "$(d)\\ 5$"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "question": "The complementary function is ($A$ is an arbitrary constant),",
+          "options": [
+            "$(a)\\ \\left(\\frac{1}{5}\\right)^t$",
+            "$(b)\\ A \\cdot 2^t$",
+            "$(c)\\ A(-3)^t$",
+            "$(d)\\ A\\left(\\frac{1}{2}\\right)^t$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "The inter-temporal equilibrium is",
+          "options": [
+            "$(a)\\ \\text{Dynamically unstable with oscillation.}$",
+            "$(b)\\ \\text{Dynamically stable with oscillation.}$",
+            "$(c)\\ \\text{Dynamically stable with monotonic convergence.}$",
+            "$(d)\\ \\text{Dynamically unstable with monotonic divergence.}$"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "In a phase diagram",
+          "options": [
+            "$(a)\\ \\text{There cannot be oscillations around the inter-temporal equilibrium.}$",
+            "$(b)\\ \\text{Both oscillations and monotonic movements are possible.}$",
+            "$(c)\\ \\text{Uniform oscillation are impossible.}$",
+            "$(d)\\ \\text{Multiple equilibria cannot exist.}$"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "The inter-temporal equilibrium in the phase diagram technique is given by the point of",
+          "options": [
+            "$(a)\\ \\text{Intersection of the graph with the x-axis.}$",
+            "$(b)\\ \\text{Intersection of the graph with the y-axis.}$",
+            "$(c)\\ \\text{Coordinates } (1, 1).$",
+            "$(d)\\ \\text{Intersection of the graph with the 45 degree line.}$"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "question": "In second order difference equations convergence of the time path depends on",
+          "options": [
+            "$(a)\\ \\text{The value of the dominant root of the characteristic equation.}$",
+            "$(b)\\ \\text{The value of the non-dominant root of the characteristic equation.}$",
+            "$(c)\\ \\text{If the roots are complex.}$",
+            "$(d)\\ \\text{If the roots are of different signs.}$"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
   }
 }
