@@ -218,7 +218,7 @@ const QuizComponent = memo(() => {
               {renderMathContent("Select Year")}
             </h2>
             <div className="flex gap-4 flex-wrap" role="radiogroup" aria-label="Select a year">
-              {[2025, 2024, 2023].map((year) => (
+              {[2025, 2024, 2021].map((year) => (
                 <button
                   key={year}
                   onClick={() => setSelectedYear(year)}
